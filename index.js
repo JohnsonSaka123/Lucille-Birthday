@@ -10,7 +10,7 @@ const Header = document.getElementById("header");
 
 const ThankYou = document.getElementById("thank-you-note")
 
-const birthdayDate = new Date("2025-04-06T00:00:00").getTime();
+const birthdayDate = new Date("2025-04-05T02:23:00").getTime();
 console.log(birthdayDate); 
 
 // Initially hide the content
